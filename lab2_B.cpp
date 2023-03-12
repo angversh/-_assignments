@@ -1,4 +1,4 @@
-﻿#Списки по классам
+//Списки по классам
 
 #include <iostream>
 #include <fstream>
